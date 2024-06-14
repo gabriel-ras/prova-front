@@ -5,3 +5,8 @@ p{
 .espaço{
     padding-top: 20px;
 }
+
+.default-font {
+    text-decoration: none;
+    color: inherit;
+}
